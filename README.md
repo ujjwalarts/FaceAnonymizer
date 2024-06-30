@@ -9,10 +9,10 @@
 
 
 ## 📍 Note
-I am using face detection model in [face_model](BlurryFaces-master/face_model) folder that can detects faces but codes are valid for any `.pb` object detection model.
+I am using face detection model in [face_model](BlurryFaces-master/face_model) folder that can detects faces.
 
 ## 📖 References 
-* [Face Detection Model](https://github.com/yeephycho/tensorflow-face-detection)
+* [Face Detection Model](https://www.researchgate.net/publication/355886757_Face_Detection_and_Recognition_Using_OpenCV)
 * [Original Video of Imitation Game Trailer](https://www.youtube.com/watch?v=j2jRs4EAvWM)
 
 ## 💼 Contact
