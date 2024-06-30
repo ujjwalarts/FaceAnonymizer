@@ -4,12 +4,12 @@
 
 
 #### For `auto_blur_video.py`:
-![](./outputs/auto_blur_video.gif)
+![](BlurryFaces-master/outputs/auto_blur_video.gif)
 
 
 
 ## 📍 Note
-I am using face detection model in [face_model](./face_model) folder that can detects faces but codes are valid for any `.pb` object detection model.
+I am using face detection model in [face_model](BlurryFaces-master/face_model) folder that can detects faces but codes are valid for any `.pb` object detection model.
 
 ## 📖 References 
 * [Face Detection Model](https://github.com/yeephycho/tensorflow-face-detection)
